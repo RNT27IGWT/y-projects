@@ -31,4 +31,4 @@
 
 # Библиотеки для работы с проектом
 
-import pandas as pd
+import 'pandas' as pd
